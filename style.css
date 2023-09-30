@@ -1,0 +1,19 @@
+*{
+    padding-left: 50px;
+    width: 100%;
+    padding-right: 50px;
+}
+#hero{
+    display: flex;
+    background-color: #F6F6F6;
+    width: 80%;
+}
+#bgimg{
+    padding-right: 50px;
+    width: 1400px;
+    height: 800px;
+    padding-bottom: 0px;
+}
+#topimg{
+    width: 1400px;
+}
